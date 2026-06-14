@@ -69,9 +69,6 @@ API terdokumentasi secara otomatis melalui Swagger UI.
 Setelah backend berjalan, buka browser dan akses URL berikut untuk melihat spesifikasi dan mencoba API langsung:
 **http://127.0.0.1:8000/docs**
 
-## Screenshot
-*(Ganti placeholder ini dengan link screenshot aplikasi Anda nantinya)*
-![Screenshot 1](#) ![Screenshot 2](#)
 
 ## Anggota Tim
 1. Titan afatah
