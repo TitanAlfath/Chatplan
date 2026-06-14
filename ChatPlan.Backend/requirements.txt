@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic[email]
+pydantic-settings
+python-dotenv
+google-generativeai
+PyJWT
+google-auth
+SQLAlchemy
+psycopg2-binary
