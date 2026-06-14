@@ -74,5 +74,4 @@ Setelah backend berjalan, buka browser dan akses URL berikut untuk melihat spesi
 ![Screenshot 1](#) ![Screenshot 2](#)
 
 ## Anggota Tim
-1. [Nama Anda] - [NIM/Peran]
-2. [Anggota 2] - [NIM/Peran]
+1. Titan afatah
